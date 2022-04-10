@@ -3,6 +3,14 @@
     "comments": true
   },
   "rules": {
-    "no-todo": true
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 60
+      }
+    }
+  },
+  "plugins": {
+    "@textlint/text": true,
+    "@textlint/markdown": true
   }
 }
