@@ -4,9 +4,8 @@
   },
   "rules": {
     "preset-ja-technical-writing": {
-      "sentence-length": {
-        "max": 60
-      }
+      "max": 120,
+      "no-mix-dearu-desumasu": false
     }
   },
   "plugins": {
