@@ -7,10 +7,10 @@
     "website": "textlint-website-generator --outputDir dist"
   },
   "devDependencies": {
-    "@textlint/website-generator": "^0.12.1"
+    "@textlint/website-generator": "^0.12.1",
+    "textlint": "^12.1.1"
   },
   "dependencies": {
-    "textlint": "^12.1.1",
     "textlint-filter-rule-comments": "^1.2.2",
     "textlint-rule-preset-ja-technical-writing": "^7.0.0"
   }
