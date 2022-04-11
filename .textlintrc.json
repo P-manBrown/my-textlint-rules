@@ -24,7 +24,6 @@
       "####": 30
     },
     "incremental-headers": true,
-    "ja-hiragana-keishikimeishi": true,
     "ja-hiragana-fukushi": true,
     "ja-hiragana-hojodoushi": true,
     "@textlint-ja/no-synonyms": true,
