@@ -11,9 +11,6 @@
     "ja-simple-user-dictionary": {
       "dictionary": [
         {
-          "pattern": "typo"
-        },
-        {
           "pattern": "ふいんき",
           "message": "「ふいんき」ではなく「ふんいき」です。"
         }
