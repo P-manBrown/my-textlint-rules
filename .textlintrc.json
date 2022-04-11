@@ -8,14 +8,6 @@
         "max": 60
       }
     },
-    "ja-simple-user-dictionary": {
-      "dictionary": [
-        {
-          "pattern": "ふいんき",
-          "message": "「ふいんき」ではなく「ふんいき」です。"
-        }
-      ]
-    },
     "no-mixed-zenkaku-and-hankaku-alphabet": true,
     "textlint-rule-max-length-of-title": {
       "#": 30,
@@ -24,6 +16,7 @@
       "####": 30
     },
     "incremental-headers": true,
+    "ja-hiragana-keishikimeishi": true,
     "ja-hiragana-fukushi": true,
     "ja-hiragana-hojodoushi": true,
     "@textlint-ja/no-synonyms": true,
