@@ -12,7 +12,7 @@ This template for [@textlint/editor](https://github.com/textlint/editor) worker 
 
 ![GitHub Pages Setting](./docs/gh-pages.png)
 
-3. Visit `https://{yourname}.github.io/{yourrepo}/` after adding rules 
+3. Visit `https://{yourname}.github.io/{yourrepo}/` after adding rules
 
 ## Add new rule
 
@@ -37,24 +37,24 @@ or add some metadata into `package.json`:
 
 ```json5
 {
-  "private": true,
-  "name": "@textlint/editor-script-template",
+  private: true,
+  name: "@textlint/editor-script-template",
   // <= edit your rule name
-  "version": "1.0.0",
-  "homepage": "https://github.com/your/repo",
+  version: "1.0.0",
+  homepage: "https://github.com/your/repo",
   // <= add your repository url
-  "description": "@textlint/editor script template",
-  "scripts": {
-    "website": "textlint-website-generator --outputDir dist"
+  description: "@textlint/editor script template",
+  scripts: {
+    website: "textlint-website-generator --outputDir dist",
   },
-  "devDependencies": {
-    "@textlint/website-generator": "^0.10.0"
+  devDependencies: {
+    "@textlint/website-generator": "^0.10.0",
   },
-  "dependencies": {
-    "textlint": "^11.9.0",
+  dependencies: {
+    textlint: "^11.9.0",
     "textlint-filter-rule-comments": "^1.2.2",
-    "textlint-rule-no-todo": "^2.0.1"
-  }
+    "textlint-rule-no-todo": "^2.0.1",
+  },
 }
 ```
 
@@ -62,3 +62,5 @@ After the setup, you can build and serve:
 
     npm run website
     npx http-serve dist/
+
+

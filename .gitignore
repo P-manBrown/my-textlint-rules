@@ -83,7 +83,4 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-txt
-.txt
-
 
