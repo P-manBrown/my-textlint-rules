@@ -62,5 +62,4 @@ After the setup, you can build and serve:
 
     npm run website
     npx http-serve dist/
-
-
+    
