@@ -376,14 +376,18 @@
     },
 
 
-    "@textlint-ja/no-synonyms": true,
-    "no-mixed-zenkaku-and-hankaku-alphabet": true,
     "textlint-rule-max-length-of-title": {
       "#": 30,
-      "##": 30,
-      "###": 30,
-      "####": 30
+      "##": 15,
+      "###": 15,
+      "####": 15,
+      "#####": 15,
+      "######": 15
     },
+
+
+    "@textlint-ja/no-synonyms": true,
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
     "ja-hiragana-keishikimeishi": true,
     "ja-joyo-or-jinmeiyo-kanji": true,
     "incremental-headers": true,
