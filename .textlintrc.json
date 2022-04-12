@@ -8,13 +8,7 @@
         "max": 60
       }
     },
-    "no-mixed-zenkaku-and-hankaku-alphabet": true,
-    "textlint-rule-max-length-of-title": {
-      "#": 30,
-      "##": 30,
-      "###": 30,
-      "####": 30
-    }
+    "no-mixed-zenkaku-and-hankaku-alphabet": true
   },
   "plugins": {
     "@textlint/text": true,
