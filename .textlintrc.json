@@ -9,13 +9,6 @@
       }
     },
 
-    "prh": {
-      "rulePaths" :[
-        "./dics/prh-goyo.yml",
-        "./dics/prh-hyoki.yml"
-      ]
-    },
-
     "textlint-rule-max-length-of-title": {
       "#": 30,
       "##": 15,
