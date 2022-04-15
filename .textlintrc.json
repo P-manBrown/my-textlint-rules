@@ -10,7 +10,7 @@
     },
 
     "prh": {
-      "rulePaths" : [ "./prh-goyo.yml" ]
+      "rulePaths" : [ "./prh-goyo.yml", "./prh-hyoki.yml" ]
     },
 
     "textlint-rule-max-length-of-title": {
