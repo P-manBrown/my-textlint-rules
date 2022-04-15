@@ -9,6 +9,10 @@
       }
     },
 
+    "prh": {
+      "rulePaths" : [ "./prh-goyo.yml" ]
+    },
+
     "textlint-rule-max-length-of-title": {
       "#": 30,
       "##": 15,
